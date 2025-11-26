@@ -1,4 +1,4 @@
-
+![My profile](assetsProfile/profilePic.jpeg)
 
 # 💫 About Me:
 - 👋 Hi, I’m **Deepak**
