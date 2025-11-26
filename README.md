@@ -6,11 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=35&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak+Kumar;Full+Stack+Developer;AI+%26+Cloud+Enthusiast;DevOps+Engineer" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <em>Passionate Full Stack Developer | AI & Cloud Solutions Architect | DevOps Enthusiast</em>
-</p>
-
----
+<h1 align="center">
+  "Exploring the future of technology through AI, Cloud, and Scalable Engineering"
+</h1>
 
 ## 💫 About Me:
 
@@ -117,6 +115,15 @@
 
 ---
 
+### 🎯 What I'm Learning Now
+- Azure advanced architecture  
+- Kubernetes basics  
+- High-performance backend patterns  
+- LangChain agents & embeddings
+
+---
+
+
 ## 📈 Current Focus:
 
 ```mermaid
@@ -145,27 +152,9 @@ graph LR
 ![](https://nirzak-streak-stats.vercel.app/?user=deluxDeepak&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deluxDeepak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deluxDeepak&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deluxDeepak&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deluxDeepak&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
 ---
 
-## 🏆 GitHub Trophies:
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deluxDeepak&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 📝 Latest Projects & Contributions:
 
@@ -178,13 +167,11 @@ graph LR
 
 [![](https://visitcount.itsvg.in/api?id=deluxDeepak&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=deluxDeepak&icon=0&color=0" alt="Profile Views" />
-</div>
 
-<div align="center">
-  <em>💡 "Building the future, one line of code at a time" 💡</em>
-</div>
+
+## 
+<p align="center"><em>💡 Always learning, always building — shaping the future with code, cloud, and AI.</em></p>
+
 
 ---
 
