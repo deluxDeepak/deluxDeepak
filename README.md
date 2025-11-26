@@ -69,14 +69,14 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 🤖 AI & Machine Learning
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%2361DAFB?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Implementation-8A2BE2?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### 🛠️ Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%230072C6.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23DD0031.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
