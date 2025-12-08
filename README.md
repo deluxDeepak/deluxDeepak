@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="assetsProfile/profilePic.jpeg" alt="Deepak Kumar" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #0077B5;" />
-</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=35&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak+Kumar;Full+Stack+Developer;AI+%26+Cloud+Enthusiast;DevOps+Engineer" alt="Typing SVG" />
